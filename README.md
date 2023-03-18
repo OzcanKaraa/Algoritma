@@ -1,2 +1,3 @@
 # Algoritma
-Draw.io Algoritma alıştırmaları
+Draw.io Algoritma alıştırmaları.
+Algoritma diyagramları ile şema çizme.
